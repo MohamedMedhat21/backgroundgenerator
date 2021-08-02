@@ -6,7 +6,7 @@ if you can't choose you can use the random button to let it choose for you, then
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/MohamedMedhat21/robofriends.git
+$ git clone 
 
 # Install dependencies
 $ npm install
