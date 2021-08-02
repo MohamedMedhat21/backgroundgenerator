@@ -17,8 +17,6 @@ $ npm install
 ```
 ## Getting Started
 
-```bash
-$ npm start
-```
+double click on index.html
 
 ![sample](https://github.com/MohamedMedhat21/backgroundgenerator/blob/master/media/sample%5Bgif%5D.gif)
